@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinarCarol
 - 👀 I’m interested in try to be better, learning something new every day.
-- 🌱 I’m currently learning C, HTML/CSS
+- 🌱 I’m currently learning Laravel, vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
